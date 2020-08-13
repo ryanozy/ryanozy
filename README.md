@@ -1,6 +1,6 @@
 ### Hi there, I'm Ryan 👋
 
-### [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ryanozy)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Ryan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ryanozycount_private=true&show_icons=true&hide_border=true"/>
 
 <!--
 **ryanozy/ryanozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
